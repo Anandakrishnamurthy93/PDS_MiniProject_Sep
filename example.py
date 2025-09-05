@@ -18,4 +18,4 @@ print(y2)
 
 plt.plot(x1,y1,marker='*',color='red')
 plt.plot(x1,y2,marker='D',color='green')
-
+plt.show()
